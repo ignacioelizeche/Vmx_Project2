@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Vmx_Project2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RecordCheck" Type="System.String" Scope="User">
+      <Value Profile="(Default)">false
+</Value>
+    </Setting>
+    <Setting Name="FolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lbExportPath</Value>
+    </Setting>
+    <Setting Name="RecordCheck1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
